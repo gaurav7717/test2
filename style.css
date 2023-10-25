@@ -55,3 +55,7 @@
 h5{
     margin-top: 10px;
 }
+ul li a{
+    color: white !important;
+    font-weight: 300;
+}
